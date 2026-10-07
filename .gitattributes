@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# third-party tools: excluded from the GitHub language statistics
+tools/** linguist-vendored
