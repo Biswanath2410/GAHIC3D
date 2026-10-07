@@ -1,0 +1,15 @@
+.Rhistory
+*~
+**/*~
+.check
+.test
+src/*.o
+src/*.so
+src/*.gcda
+src/*.gcno
+.dll
+.async
+revdep/data.sqlite
+revdep/checks/*
+revdep/library/*
+tests/.checks/*

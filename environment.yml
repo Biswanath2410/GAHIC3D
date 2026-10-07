@@ -1,0 +1,14 @@
+name: gahic3d
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4
+  - scipy=1.17
+  - scikit-learn=1.9
+  - pandas=3.0
+  - matplotlib=3.11
+  - autograd
+  - pip
+  - pip:
+      - iced==0.6.0

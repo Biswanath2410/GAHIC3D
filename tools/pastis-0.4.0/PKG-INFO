@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: pastis
+Version: 0.4.0
+Summary: A set of algorithms for the 3D inference of the genome
+Home-page: UNKNOWN
+Author: Nelle Varoquaux
+Author-email: nelle.varoquaux@ensmp.fr
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS

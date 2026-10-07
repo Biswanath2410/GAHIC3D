@@ -1,0 +1,20 @@
+Package: hsa
+Version: 0.1.1-9000
+Depends:
+    R (>= 3.3.0),
+Imports:
+    stats,
+    utils,
+    MASS,
+    matrixStats (>= 0.54.0)
+NeedsCompilation: yes
+Title: Integrating Multi-Track Hi-C Data for Genome-Scale Reconstruction of 3D Chromatin Structure (a Non-Official R Package)
+Authors@R: c(person("Henrik", "Bengtsson", role=c("aut", "cre", "cph"),
+                                          email = "henrikb@braju.com"))
+Description: A non-official fork of the R scripts available at http://ouyanglab.jax.org/hsa/ provided by the authors of Zou C, Zhang Y, Ouyang Z, HSA: integrating multi-track Hi-C data for genome-scale reconstruction of 3D chromatin structure. Genome Biology, 2016.
+License: GPL (>= 2.0)
+LazyLoad: TRUE
+URL: https://github.com/HenrikBengtsson/hsa
+BugReports: https://github.com/HenrikBengtsson/hsa/issues
+RoxygenNote: 6.1.1
+Roxygen: list(markdown = TRUE)

@@ -1,0 +1,23 @@
+hsa
+===
+
+Version: 0.1.1-9000 [2018-07-23]
+
+ o ...
+ 
+
+Version: 0.1.1 [2018-07-23]
+
+ o Now require matrixStats (>= 0.54.0) because it is faster.
+ 
+
+Version: 0.1.0 [2018-04-15]
+
+NEW FEATURES:
+
+ o All of the original HSA functions are available in this package, but
+   only the fmain() function is exported.  To access the others, prefix
+   with 'hsa:::', e.g. hsa:::finital().
+
+ o Packaged and improved (performance and memory) the HSA GPL-2 R scripts
+   available from http://ouyanglab.jax.org/hsa/.
